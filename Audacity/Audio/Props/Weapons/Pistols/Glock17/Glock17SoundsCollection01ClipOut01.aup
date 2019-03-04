@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Glock17SoundsCollection01ClipOut01_data" version="1.3.0" audacityversion="2.3.0" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="2085.3599221790" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="compatible_brands" value="isommp42"/>
+		<tag name="ARTIST" value="Royalty Free "/>
+		<tag name="major_brand" value="mp42"/>
+		<tag name="Software" value="Lavf56.19.100"/>
+		<tag name="TITLE" value="Glock"/>
+		<tag name="minor_version" value="0"/>
+	</tags>
+	<wavetrack name="Glock17SoundsCollection01" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="28761">
+				<waveblock start="0">
+					<simpleblockfile filename="e08083c4.au" len="28761" min="-0.11439" max="0.088993" rms="0.008912"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Glock17SoundsCollection01" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="28761">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808caa.au" len="28761" min="-0.116005" max="0.09323" rms="0.009064"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
