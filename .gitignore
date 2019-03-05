@@ -76,3 +76,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 UE4Source/Config/DefaultEngine.ini
+
+#Textures for FIRE RANGES
+UnimportedAssets/Meshes/Environment/FireRanges/Textures
